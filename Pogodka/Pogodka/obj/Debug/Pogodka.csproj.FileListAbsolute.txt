@@ -1,0 +1,13 @@
+C:\Users\Hevenly\source\repos\Pogodka\Pogodka\bin\Debug\Pogodka.exe.config
+C:\Users\Hevenly\source\repos\Pogodka\Pogodka\bin\Debug\Pogodka.exe
+C:\Users\Hevenly\source\repos\Pogodka\Pogodka\bin\Debug\Pogodka.pdb
+C:\Users\Hevenly\source\repos\Pogodka\Pogodka\obj\Debug\Pogodka.csprojAssemblyReference.cache
+C:\Users\Hevenly\source\repos\Pogodka\Pogodka\obj\Debug\Pogodka.Properties.Resources.resources
+C:\Users\Hevenly\source\repos\Pogodka\Pogodka\obj\Debug\Pogodka.csproj.GenerateResource.cache
+C:\Users\Hevenly\source\repos\Pogodka\Pogodka\obj\Debug\Pogodka.csproj.CoreCompileInputs.cache
+C:\Users\Hevenly\source\repos\Pogodka\Pogodka\obj\Debug\Pogodka.exe
+C:\Users\Hevenly\source\repos\Pogodka\Pogodka\obj\Debug\Pogodka.pdb
+C:\Users\Hevenly\source\repos\Pogodka\Pogodka\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hevenly\source\repos\Pogodka\Pogodka\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hevenly\source\repos\Pogodka\Pogodka\obj\Debug\Pogodka.Form1.resources
+C:\Users\Hevenly\source\repos\Pogodka\Pogodka\obj\Debug\Pogodka.csproj.CopyComplete
